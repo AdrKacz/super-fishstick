@@ -2,7 +2,7 @@
 name: "\U0001F4DA Research"
 about: Task that needs research and investigation
 title: "\U0001F4DA Your research"
-labels: ''
+labels: Research
 assignees: ''
 
 ---
