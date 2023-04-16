@@ -2,12 +2,12 @@
 name: "\U0001F4DA Research"
 about: Task that needs research and investigation
 title: "\U0001F4DA Your research"
-labels: Research
+labels: research
 assignees: ''
 
 ---
 
-Details what needs to be research.
+What needs to be researched? Why?
 
 # Outcomes
 
