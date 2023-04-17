@@ -31,3 +31,7 @@ Every below comes from ChatGPT. I can combine its answers, reword, or reorder it
 The theme will be **Film and TV reviews** and will focus on **Reviews of popular Netflix dramas**
 
 > Film and TV reviews > Reviews of popular TV shows > Reviews of current streaming service dramas > Reviews of Netflix dramas > Reviews of popular Netflix dramas
+
+## Twitter account
+
+https://twitter.com/NetflixDramaBot
