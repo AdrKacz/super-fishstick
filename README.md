@@ -26,3 +26,8 @@ Every below comes from ChatGPT. I can combine its answers, reword, or reorder it
 9. Interact with your audience. Respond to their comments, retweet their tweets, and follow them back.
 10. Promote your bot on other social media platforms or forums related to your niche.
 
+## Theme
+
+The theme will be **Film and TV reviews** and will focus on **Reviews of Netflix dramas**
+
+> Film and TV reviews > Reviews of popular TV shows > Reviews of current streaming service dramas > Reviews of Netflix dramas
